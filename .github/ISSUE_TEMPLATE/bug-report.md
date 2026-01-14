@@ -1,8 +1,9 @@
 ---
 name: "Bug report \U0001F9E8"
 about: Create a bug report
+title: "Bug \U0001F9E8 // "
 labels: bug
-
+assignees: smini-digital
 ---
 
 ## Describe the bug
