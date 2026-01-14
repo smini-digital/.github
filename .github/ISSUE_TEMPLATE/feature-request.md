@@ -1,8 +1,9 @@
 ---
 name: "Feature request \U00002728"
 about: Suggest an idea
-labels: enhancement
-
+title: "Feature \U00002728 // "
+labels: feature
+assignees: smini-digital
 ---
 
 ## Summary
